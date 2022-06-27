@@ -10,7 +10,7 @@
 #     author         = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto,    #
 #                       Sergio L. and da Silva, Eduardo A. B.},                                    #
 #     title          = {A Comparative Analysis of Object Detection Metrics with a Companion        #
-#                       Open-Source Toolkit},                                                      #
+#                       Open-Source Toolkit},                       opaaaaaaaaaaaaa                               #
 #     journal        = {Electronics},                                                              #
 #     volume         = {10},                                                                       #
 #     year           = {2021},                                                                     #
